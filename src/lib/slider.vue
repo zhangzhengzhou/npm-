@@ -8,7 +8,7 @@
 <style>
   ul li {
     background: pink;
-    font-size: 150px;
+    font-size: 140px;
     color:red;
   }
 </style>
